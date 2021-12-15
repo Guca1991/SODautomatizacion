@@ -1,0 +1,2 @@
+# SODautomatizacion
+Jira-automatización Github
